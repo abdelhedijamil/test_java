@@ -1,5 +1,4 @@
 <project>
-<!-- test -->
     <property name="lib.dir" value="/usr/local/Cellar/ant/1.10.8_1/libexec/lib" />
     <path id="classpath">
         <pathelement location="${lib.dir}/ant-junit4.jar"/>
